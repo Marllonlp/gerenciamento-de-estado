@@ -1,6 +1,6 @@
 # Calculadora Flutter
 
-Aplicação simples para praticar gerenciamento de estado com `StatefulWidget`. A tela recebe dois números e calcula adição, subtração, multiplicação ou divisão.
+Aplicação para praticar gerenciamento de estado com `StatefulWidget`. A tela recebe dois números e calcula adição, subtração, multiplicação ou divisão.
 
 ## Estrutura
 
